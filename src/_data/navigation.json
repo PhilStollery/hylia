@@ -7,11 +7,15 @@
     },
     {
       "text": "About",
-      "url": "/about"
+      "url": "/about/"
+    },
+    {
+      "text": "All posts",
+      "url": "/archive/"
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "url": "https://github.com/philstollery",
       "external": true
     }
   ]
