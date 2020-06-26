@@ -1,6 +1,6 @@
 ---
 title: From WordPress to Netlify CMS
-date: 2019-01-16
+date: 2019-01-16T00:00:00.000Z
 tags:
   - Wordpress
   - freedom
@@ -23,4 +23,4 @@ Git push - site is live!
 
 👆🏻👆🏻👆🏻
 
-This was then, now just click this <a href="https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&amp;stack=cms" rel="nofollow"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" data-canonical-src="https://www.netlify.com/img/deploy/button.svg" style="max-width:100%;"></a>.
+This was then, now just click this <a class="netlify-button" href="https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&amp;stack=cms" rel="nofollow"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" data-canonical-src="https://www.netlify.com/img/deploy/button.svg" style="max-width:100%;"></a>.
