@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: About
-permalink: /about
+permalink: /about/index.html
 metaTitle: About me and this site
 ---
 I’ve been working with Microsoft Technologies since [1997](https://www.youtube.com/watch?v=SSbBvKaM6sk "Woo Hoo"), including Visual Basic, C++, .NET, Access, SharePoint, and SQL Server. My many years of industry experience is backed by a degree in Computer Science.
