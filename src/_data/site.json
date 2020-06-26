@@ -1,7 +1,7 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "Phil Stollery",
-  "shortDesc": "Static [site](https://www.11ty.dev/). Hosted on [Netlify](https://netlify.com/). ",
+  "shortDesc": "Static [site](https://www.11ty.dev). Hosted on [Netlify](https://netlify.com). Theme by the [Hylia](https://hylia.website).",
   "url": "https://stollerys.co.uk",
   "authorEmail": "phil@stollerys.co.uk",
   "authorHandle": "@philstollery",
