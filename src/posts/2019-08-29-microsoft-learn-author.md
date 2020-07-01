@@ -1,12 +1,12 @@
 ---
 title: Microsoft Learn author
-date: '2019-08-29'
+date: 2019-08-29
 tags:
   - Microsoft
   - author
 ---
 
-Unfortunately due to NDA and other fun things, I can't talk about how all the modules on [microsoft.com/learn](microsoft.com/learn) are made. The other problem is that each module doesn't include any author information. 
+Unfortunately due to NDA and other fun things, I can't talk about how all the modules on [microsoft.com/learn](https://microsoft.com/learn) are made. The other problem is that each module doesn't include any author information. 
 
 What I'm listing here are modules that I have a personal interest in, and might have had a hand in creating :)
 
